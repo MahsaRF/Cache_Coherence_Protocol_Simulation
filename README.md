@@ -16,10 +16,15 @@ Sample run command for a cache :
 ===== 506 SMP Simulator configuration =====
 
 L1_SIZE:		8192
+
 L1_ASSOC:		8
+
 L1_BLOCKSIZE:		64
+
 NUMBER OF PROCESSORS:	4
+
 COHERENCE PROTOCOL:	MSI
+
 TRACE FILE:		traces/canneal.04t.longTrace
 
  
