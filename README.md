@@ -14,6 +14,7 @@ Sample run command for a cache :
  ./smp_cache 8192 8 64 4 MSI canneal.04t.longTrace 
 
 ===== 506 SMP Simulator configuration =====
+
 L1_SIZE:		8192
 L1_ASSOC:		8
 L1_BLOCKSIZE:		64
