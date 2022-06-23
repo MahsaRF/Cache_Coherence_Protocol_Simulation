@@ -1,4 +1,4 @@
-# Cache Coherence Protocol Simulator in C++
+# Cache Coherence Protocol Simulator
 
 Project Overview 
 
